@@ -22,3 +22,5 @@ As of now, I am still trying to edit this app improve the design and add more fu
 
 
 ### Enhanced Project
+
+![Weight Entry](https://github.com/user-attachments/assets/1f36487a-3dad-4fee-a225-2f9f9d141277)
