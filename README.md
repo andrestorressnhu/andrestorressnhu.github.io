@@ -14,7 +14,7 @@ As of now, I am still trying
 
 ### Original Project
 
-(https://github.com/user-attachments/assets/0c0a923b-4e06-4d17-bd65-6f8c9283fc69)
+![Pasted Graphic 7](https://github.com/user-attachments/assets/0c0a923b-4e06-4d17-bd65-6f8c9283fc69)
 
 ![Pasted Graphic 8](https://github.com/user-attachments/assets/450e694c-b19a-4ac7-bb40-561eaf409979)
 
