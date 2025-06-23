@@ -9,8 +9,7 @@ Through enhancing this artifact, I deepened my understanding of how front-end an
 
 ### FUTURE UPDATES
 
-As of now, I am still trying 
-
+In the future, I would like to translate this dashboard into mobile app format.  I plan on using Andoid Studio to create an intuitive, user friendly app to access the database with the rescue animals information.
 
 ### Original Project
 
