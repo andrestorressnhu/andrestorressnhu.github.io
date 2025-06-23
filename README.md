@@ -12,7 +12,7 @@ The weight entry part of the app was improved by displaying all the entries so t
 
 ### FUTURE UPDATES
 
-As of now, I am still trying to edit this app improve the design and add more functionality to the app. I did add more comments to the code so that it could be more readable on the backend. As a software designer and engineer there is always a way to upgrade code to bring more value to the user.
+In the future, I look to enhance the user interface more to make the app seamless for all users.  I look to add a graphic to track the progress of of the user's goals.  I plan to enhance cross platform functionality by creating webapp for browser access and making the app available for Apple products.
 
 
 ### Original Project
