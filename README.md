@@ -3,6 +3,9 @@
 https://andrestorressnhu.github.io
 
 
+## Course Outcomes
+
+
 Course Outcome 1:
 
 Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
