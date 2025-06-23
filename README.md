@@ -14,7 +14,7 @@ Through the enhancement process, I developed an understanding of Swing GUI layou
 
 ### FUTURE UPDATES
 
-As of now, I am still trying 
+In the future, I will add more photos for each individual destination. I will add links that would transport the user to the travel details.  
 
 
 ### Original Project
